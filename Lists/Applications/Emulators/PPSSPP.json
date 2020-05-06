@@ -1,0 +1,10 @@
+{
+  "Name": "PPSSPP (PSP)",
+  "WebsiteLink": "https://www.ppsspp.org/",
+  "Applications": [
+    {
+      "Version": "1.9.3",
+      "Link": "https://www.ppsspp.org/files/1_9_3/PPSSPPSetup.exe"
+    }
+  ]
+}

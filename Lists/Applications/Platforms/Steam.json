@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Steam",
+  "WebsiteLink": "https://store.steampowered.com/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://steamcdn-a.akamaihd.net/client/installer/SteamSetup.exe"
+    }
+  ]
+}

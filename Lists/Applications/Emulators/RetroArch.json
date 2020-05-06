@@ -1,0 +1,10 @@
+{
+  "Name": "RetroArch (Nintento) ",
+  "WebsiteLink": "https://www.retroarch.com/",
+  "Applications": [
+    {
+      "Version": "1.8.5",
+      "Link": "http://buildbot.libretro.com/stable/1.8.5/windows/x86_64/RetroArch-x64-setup.exe"
+    }
+  ]
+}

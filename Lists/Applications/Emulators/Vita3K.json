@@ -1,0 +1,10 @@
+{
+  "Name": "Vita3K",
+  "WebsiteLink": "https://vita3k.org/",
+  "Applications": [
+    {
+      "Version": "Win64",
+      "Link": "https://ci.appveyor.com/api/buildjobs/12wq4hiws9c9wef0/artifacts/Vita3K-master-v3872-2020-04-09-461b1c2f_win64.7z"
+    }
+  ]
+}

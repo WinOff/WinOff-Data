@@ -1,0 +1,10 @@
+{
+  "Name": "Java",
+  "WebsiteLink": "https://www.java.com/pt_BR/",
+  "Applications": [
+    {
+      "Version": "8",
+      "Link": "https://javadl.oracle.com/webapps/download/AutoDL?BundleId=242029_3d5a2bb8f8d4428bbe94aed7ec7ae784"
+    }
+  ]
+}

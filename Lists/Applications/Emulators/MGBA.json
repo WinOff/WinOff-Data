@@ -1,0 +1,10 @@
+{
+  "Name": "MGBA",
+  "WebsiteLink": "https://github.com/mgba-emu/",
+  "Applications": [
+    {
+      "Version": "0.8.1",
+      "Link": "https://github.com/mgba-emu/mgba/releases/download/0.8.1/mGBA-0.8.1-win64-installer.exe"
+    }
+  ]
+}

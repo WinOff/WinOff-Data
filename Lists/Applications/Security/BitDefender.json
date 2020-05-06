@@ -1,0 +1,10 @@
+{
+  "Name": "BitDefender",
+  "WebsiteLink": "https://www.bitdefender.com/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://www.bitdefender.com/solutions/free/thank-you.html"
+    }
+  ]
+}

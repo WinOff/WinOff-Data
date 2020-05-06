@@ -1,0 +1,10 @@
+{
+  "Name": "Xenia (Xbox)",
+  "WebsiteLink": "https://xenia.jp/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://ci.appveyor.com/api/projects/benvanik/xenia/artifacts/xenia_master.zip?branch=master&job=Configuration%3A%20Release&pr=false"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿{
+  "Name": "iTunes",
+  "WebsiteLink": "",
+  "Applications": [
+    {
+      "Version": "Any 64-bit",
+      "Link": "https://secure-appldnld.apple.com/itunes12/031-69284-20160802-7E7B2D20-552B-11E6-B2B9-696CECD541CE/iTunes64Setup.exe"
+    }
+  ]
+}

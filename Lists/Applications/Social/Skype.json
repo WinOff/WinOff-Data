@@ -1,0 +1,10 @@
+{
+  "Name": "Skype",
+  "WebsiteLink": "https://go.skype.com/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://go.skype.com/skype.download"
+    }
+  ]
+}

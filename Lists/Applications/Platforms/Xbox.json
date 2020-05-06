@@ -1,0 +1,10 @@
+{
+  "Name": "Xbox",
+  "WebsiteLink": "http://xbox.com/",
+  "Applications": [
+    {
+      "Version": "W10",
+      "Link": "https://assets.xbox.com/installer/20190628.8/anycpu/XboxInstaller.exe"
+    }
+  ]
+}

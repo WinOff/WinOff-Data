@@ -1,0 +1,10 @@
+{
+  "Name": "Silverlight",
+  "WebsiteLink": "https://www.microsoft.com/silverlight/",
+  "Applications": [
+    {
+      "Version": "5",
+      "Link": "http://go.microsoft.com/fwlink/?LinkID=229321"
+    }
+  ]
+}

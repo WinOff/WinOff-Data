@@ -1,0 +1,10 @@
+{
+  "Name": "OpenOffice",
+  "WebsiteLink": "https://www.openoffice.org/pt/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://sourceforge.net/projects/openofficeorg.mirror/files/4.1.7/binaries/en-GB/Apache_OpenOffice_4.1.7_Win_x86_install_en-GB.exe/download"
+    }
+  ]
+}

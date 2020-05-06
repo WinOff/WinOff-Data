@@ -1,0 +1,10 @@
+{
+  "Name": "Opera",
+  "WebsiteLink": "https://www.opera.com/pt",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://www.opera.com/computer/thanks?ni=stable&os=windows"
+    }
+  ]
+}

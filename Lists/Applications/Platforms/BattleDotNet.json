@@ -1,0 +1,10 @@
+{
+  "Name": "Battle.net",
+  "WebsiteLink": "https://www.battle.net/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://www.battle.net/download/getInstallerForGame?os=win&locale=enUS&version=LIVE&gameProgram=BATTLENET_APP"
+    }
+  ]
+}

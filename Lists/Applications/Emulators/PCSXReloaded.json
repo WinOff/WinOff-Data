@@ -1,0 +1,10 @@
+{
+  "Name": "PCSX-Reloaded (PS1)",
+  "WebsiteLink": "",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://codeplexarchive.blob.core.windows.net/archive/projects/pcsxr/pcsxr.zip"
+    }
+  ]
+}

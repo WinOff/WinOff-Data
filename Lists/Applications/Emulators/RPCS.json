@@ -1,0 +1,10 @@
+{
+  "Name": "RPCS3 (PS3)",
+  "WebsiteLink": "https://github.com/RPCS3",
+  "Applications": [
+    {
+      "Version": "0.0.9",
+      "Link": "https://github.com/RPCS3/rpcs3-binaries-win/releases/download/build-6210507a374c1b8c8b263eb0f69433ea8372e1bc/rpcs3-v0.0.9-10229-6210507a_win64.7z"
+    }
+  ]
+}

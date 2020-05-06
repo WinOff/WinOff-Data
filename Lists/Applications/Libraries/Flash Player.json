@@ -1,0 +1,10 @@
+{
+  "Name": "Flash Player",
+  "WebsiteLink": "https://www.adobe.com/uk/products/flashplayer.html",
+  "Applications": [
+    {
+      "Version": "81.0",
+      "Link": "https://get3.adobe.com/uk/flashplayer/download/?installer=FP_32_for_Firefox_-_NPAPI&os=Windows%2010&browser_type=KHTML&browser_dist=Chrome&type=au&browser_vers=81.0.4044.113&stype=7541"
+    }
+  ]
+}

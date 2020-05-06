@@ -1,0 +1,10 @@
+{
+  "Name": "Tor",
+  "WebsiteLink": "https://www.google.com/intl/pt-PT/chrome/",
+  "Applications": [
+    {
+      "Version": "9.0.9 64-bit",
+      "Link": "https://www.torproject.org/dist/torbrowser/9.0.9/torbrowser-install-win64-9.0.9_en-US.exe"
+    }
+  ]
+}

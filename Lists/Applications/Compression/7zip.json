@@ -1,0 +1,10 @@
+{
+  "Name": "7-Zip",
+  "WebsiteLink": "https://www.7-zip.org/",
+  "Applications": [
+    {
+      "Version": "19.0",
+      "Link": "https://www.7-zip.org/a/7z1900-x64.exe"
+    }
+  ]
+}

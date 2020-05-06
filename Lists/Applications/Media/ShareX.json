@@ -1,0 +1,10 @@
+{
+  "Name": "ShareX",
+  "WebsiteLink": "https://github.com/ShareX/",
+  "Applications": [
+    {
+      "Version": "13.1",
+      "Link": "https://github.com/ShareX/ShareX/releases/download/v13.1.0/ShareX-13.1.0-setup.exe"
+    }
+  ]
+}

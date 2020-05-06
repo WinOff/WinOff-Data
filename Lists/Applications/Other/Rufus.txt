@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Rufus",
+  "WebsiteLink": "https://github.com/pbatard/rufus/",
+  "Applications": [
+    {
+      "Version": "3.8p",
+      "Link": "https://github.com/pbatard/rufus/releases/download/v3.8/rufus-3.8p.exe"
+    }
+  ]
+}

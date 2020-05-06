@@ -1,0 +1,10 @@
+{
+  "Name": "TeamSpeak",
+  "WebsiteLink": "https://www.teamspeak.com/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://www.teamspeak.com/en/downloads/#"
+    }
+  ]
+}

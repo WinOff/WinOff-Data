@@ -1,0 +1,10 @@
+{
+  "Name": "Spotify",
+  "WebsiteLink": "https://www.spotify.com/",
+  "Applications": [
+    {
+      "Version": "Any",
+      "Link": "https://www.spotify.com/us/download/windows/"
+    }
+  ]
+}

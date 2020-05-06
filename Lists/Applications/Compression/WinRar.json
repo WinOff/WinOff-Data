@@ -1,0 +1,10 @@
+﻿{
+  "Name": "WinRAR",
+  "WebsiteLink": "https://www.win-rar.com/",
+  "Applications": [
+    {
+      "Version": "5.9 64-bit",
+      "Link": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-590.exe"
+    }
+  ]
+}

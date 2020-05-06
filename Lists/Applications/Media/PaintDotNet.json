@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Paint .NET",
+  "WebsiteLink": "https://www.getpaint.net/",
+  "Applications": [
+    {
+      "Version": "4.2.10",
+      "Link": "https://www.dotpdn.com/files/paint.net.4.2.10.install.zip"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Name": "VLC",
+  "WebsiteLink": "https://www.videolan.org/vlc/index.pt.html",
+  "Applications": [
+    {
+      "Version": "3.0.8 Win64",
+      "Link": "https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe"
+    }
+  ]
+}

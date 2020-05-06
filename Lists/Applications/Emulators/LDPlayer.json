@@ -1,0 +1,10 @@
+{
+  "Name": "LDPlayer (Android)",
+  "WebsiteLink": "https://pt.ldplayer.net/",
+  "Applications": [
+    {
+      "Version": "4.0",
+      "Link": "https://encdn.ldmnq.com/download/pt/LDPlayer4_pt_7409_ld.exe"
+    }
+  ]
+}

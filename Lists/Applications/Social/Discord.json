@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Discord",
+  "WebsiteLink": "http://discordapp.com/",
+  "Applications": [
+    {
+      "Version": "W10",
+      "Link": "https://discordapp.com/api/download?platform=win"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+Whatsapp
+64-bit|https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe
+
+{
+  "Name": "Whatsapp",
+  "WebsiteLink": "https://web.whatsapp.com/",
+  "Applications": [
+    {
+      "Version": "64-bit",
+      "Link": "https://web.whatsapp.com/desktop/windows/release/x64/WhatsAppSetup.exe"
+    }
+  ]
+}

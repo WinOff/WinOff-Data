@@ -1,0 +1,10 @@
+﻿{
+  "Name": ".NET Framework",
+  "WebsiteLink": "https://www.java.com/pt_BR/",
+  "Applications": [
+    {
+      "Version": "4.8",
+      "Link": "https://dotnet.microsoft.com/"
+    }
+  ]
+}
