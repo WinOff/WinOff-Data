@@ -1,6 +1,7 @@
 ﻿{
   "Name": "Chrome",
-  "WebsiteLink": "https://www.torproject.org/",
+  "WebsiteLink": "https://www.google.com/intl/pt-PT/chrome/",
+  "Description": "Chrome is a web browser by Google Inc",
   "Applications": [
     {
       "Version": "Any",
