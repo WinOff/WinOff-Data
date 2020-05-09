@@ -1,10 +1,11 @@
 {
   "Name": "Opera",
   "WebsiteLink": "https://www.opera.com/pt",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
-      "Link": "https://www.opera.com/computer/thanks?ni=stable&os=windows"
+      "Link": "https://net.geo.opera.com/opera/stable/windows?utm_tryagain=yes&utm_source=(direct)_via_opera_com&utm_medium=doc&utm_campaign=(direct)_via_opera_com_https&http_referrer=missing_via_opera_com&utm_site=opera_com&dl_token=92345391"
     }
   ]
 }
