@@ -1,6 +1,7 @@
 {
   "Name": "Firefox",
   "WebsiteLink": "https://www.mozilla.org/pt-PT/firefox/new/",
+  "Description": "Firefox is a web browser by Mozzila Inc",
   "Applications": [
     {
       "Version": "Any",
