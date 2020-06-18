@@ -1,7 +1,8 @@
 {
   "Name": "Heidoc",
   "WebsiteLink": "https://www.heidoc.net/",
-  "Applications": [
+  "Description": "",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://www.heidoc.net/php/Windows-ISO-Downloader.exe"
