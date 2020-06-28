@@ -1,7 +1,8 @@
 {
   "Name": "GOG",
   "WebsiteLink": "https://www.gog.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://webinstallers.gog.com/download/GOG_Galaxy_2.0.exe?payload=hsutc8uXgMski4n79uiy36YRhkZa_cy6rRdl00TWSzndQtxcLwRiL7iw6XdvHbJHxtjYKTehLL1rU_Srm9m5g1JUuDvF4UPxuiOo-lp6YuI5Q6oVZx7Jc7CYVAE6YRi3O3aEIQ19EZAcIQ-PPWPkbYCUaLaAkJAzE6viRjqs1yYBA-gZl5zWvFA5UOYuVWBNH2-RAm4KsO2k73OGsh2fjdCpFzEVy3fo0pqqk5aDHclcsCO_KTFReNaKJ8yffFc24Q_bLzU0tyCDa6o9bVGOXX6nALRL0F4qd2VqIq2eM1t0_yjqc87gFB8xtMo9A5f4koRXygAyfIuACV5dmggyVT1OumRruK-mOJtQsBVTP8JfTyBjkqbMgBkQz8Zi0RrdRVvZTikKvTLLMtFKOTIu2cYk5Kd4VLO0lmb0jeea0J5IPNtXjaXU6c1SLUNKnPoxXjbX8p4XqE3kt6wjYoqsXmnOeL8pzrT-n9Xxwlnd4CImlFqRtrTgVgr6HIs4emy_xAFSd1MjW-q9KwWdPagSX-uVroLlNOoygggh_uwcOp1n7cBXaLpl73eCvDzmPew3eXwxaKlKBMT7ppy8VEsL_y4l1r9M-3AlJ8cznlmaUyIhYsfctiUswSt_X7fxuPA-s0DcnWzrLlyxNp5p6Mxpwoyge_r0KXcxz4vFlkytjav-XqyAM69jLJIAat4ay_A1SVrE4da9UuQYmF8."

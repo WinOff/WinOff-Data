@@ -1,7 +1,8 @@
 {
   "Name": "NOX Player (Android)",
   "WebsiteLink": "https://www.bignox.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "6.6",
       "Link": "https://www.bignox.com/en/download/fullPackage"

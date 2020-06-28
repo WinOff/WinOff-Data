@@ -1,7 +1,8 @@
 {
   "Name": "ShareX",
   "WebsiteLink": "https://github.com/ShareX/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "13.1",
       "Link": "https://github.com/ShareX/ShareX/releases/download/v13.1.0/ShareX-13.1.0-setup.exe"

@@ -1,7 +1,8 @@
 {
   "Name": "Epic Store",
   "WebsiteLink": "https://www.epicgames.com/store/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi?trackingId=4eed0c7a574a41f5bdb2cf95772c5cfa"

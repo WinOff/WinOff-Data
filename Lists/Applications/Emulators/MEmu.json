@@ -1,7 +1,8 @@
 {
   "Name": "MEmu 7.1 (Android)",
   "WebsiteLink": "https://www.memuplay.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://www.memuplay.com/download-en.php?file_name=Memu-Setup&from=official_release"

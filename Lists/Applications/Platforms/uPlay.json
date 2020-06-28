@@ -1,7 +1,8 @@
 {
   "Name": "uPlay",
   "WebsiteLink": "https://www.ubisoft.com/en-us/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "http://ubi.li/4vxt9"

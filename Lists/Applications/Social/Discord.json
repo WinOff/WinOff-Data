@@ -1,7 +1,8 @@
 ﻿{
   "Name": "Discord",
   "WebsiteLink": "http://discordapp.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "W10",
       "Link": "https://discordapp.com/api/download?platform=win"

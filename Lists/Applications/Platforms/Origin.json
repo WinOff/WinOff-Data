@@ -1,7 +1,8 @@
 {
   "Name": "Origin",
   "WebsiteLink": "https://www.origin.com/irl/en-us/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://www.dm.origin.com/download"

@@ -1,7 +1,8 @@
 {
   "Name": "iCyber",
   "WebsiteLink": "",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "",
       "Link": ""

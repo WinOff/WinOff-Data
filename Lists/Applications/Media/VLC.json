@@ -1,7 +1,8 @@
 {
   "Name": "VLC",
   "WebsiteLink": "https://www.videolan.org/vlc/index.pt.html",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "3.0.8 Win64",
       "Link": "https://get.videolan.org/vlc/3.0.8/win64/vlc-3.0.8-win64.exe"

@@ -1,7 +1,8 @@
 ﻿{
   "Name": ".NET Framework",
   "WebsiteLink": "https://www.java.com/pt_BR/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "4.8",
       "Link": "https://dotnet.microsoft.com/"

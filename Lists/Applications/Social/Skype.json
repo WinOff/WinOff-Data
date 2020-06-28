@@ -1,7 +1,8 @@
 {
   "Name": "Skype",
   "WebsiteLink": "https://go.skype.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://go.skype.com/skype.download"

@@ -1,7 +1,8 @@
 {
   "Name": "LDPlayer (Android)",
   "WebsiteLink": "https://pt.ldplayer.net/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "4.0",
       "Link": "https://encdn.ldmnq.com/download/pt/LDPlayer4_pt_7409_ld.exe"

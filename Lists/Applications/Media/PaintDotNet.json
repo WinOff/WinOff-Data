@@ -1,7 +1,8 @@
 ﻿{
   "Name": "Paint .NET",
   "WebsiteLink": "https://www.getpaint.net/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "4.2.10",
       "Link": "https://www.dotpdn.com/files/paint.net.4.2.10.install.zip"

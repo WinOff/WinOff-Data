@@ -1,7 +1,8 @@
 ﻿{
   "Name": "Essentials",
   "WebsiteLink": "https://support.microsoft.com/pt-pt/help/17150/windows-7-what-is-microsoft-security-essentials",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "W7",
       "Link": "https://www.microsoft.com/en-us/download/confirmation.aspx?id=5201"

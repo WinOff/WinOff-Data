@@ -1,7 +1,8 @@
 {
   "Name": "TeamSpeak",
   "WebsiteLink": "https://www.teamspeak.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://www.teamspeak.com/en/downloads/#"

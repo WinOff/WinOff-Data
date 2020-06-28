@@ -1,7 +1,8 @@
 {
   "Name": "BitDefender",
   "WebsiteLink": "https://www.bitdefender.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "Any",
       "Link": "https://www.bitdefender.com/solutions/free/thank-you.html"

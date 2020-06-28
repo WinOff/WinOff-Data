@@ -1,7 +1,8 @@
 {
   "Name": "PCSX2 (PS2)",
   "WebsiteLink": "https://www.bignox.com/",
-  "Applications": [
+  "Description": "Chrome is a web browser by Google Inc",
+  "Versions": [
     {
       "Version": "1.4",
       "Link": "https://pcsx2.net/download/releases/windows/send/40-windows/118-pcsx2-1-4-0-setup.html"
