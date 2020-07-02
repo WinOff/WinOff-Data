@@ -1,7 +1,10 @@
 ﻿{
   "Name": "Rufus",
   "WebsiteLink": "https://github.com/pbatard/rufus/",
-  "Description": "",
+  "Description": "Rufus is an utility tool to format and create bootable USB.
+This software will allow you to write .ISO files such as those provided in Windows Installer options.
+To clean install windows on your computer you need to boot from the USB.
+USB with a minimum of 8GB is recomended.",
   "Versions": [
     {
       "Version": "3.8p",
