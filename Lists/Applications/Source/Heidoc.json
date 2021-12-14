@@ -1,8 +1,7 @@
 {
   "Name": "Heidoc",
   "WebsiteLink": "https://www.heidoc.net/",
-  "Description": "Heidoc is a freeware app that provides every oficial build from Microsoft.
-Select your version and languange.",
+  "Description": "Heidoc is a freeware app that provides every official build from Microsoft. Select your preferred version and language.",
   "Versions": [
     {
       "Version": "Any",
